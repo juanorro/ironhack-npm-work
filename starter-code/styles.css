@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+}
+
+div.top-left{
+    margin: 0 20px 0 0;
+}
+
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 10px;
+    height: 50px;
+    margin: 0 auto;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0px 10px;
+  }
+
+  .acronym {
+    margin: 0 10px;
+  }
+
+  header{
+      background-color: rgb(32, 101, 136);
+  }
+
+  header img{
+      padding: 10px;
+      width: 150px;
+      
+  }
+
+  header input {
+      background-color: rgb(31, 82, 111);
+      border-color: azure;
+      position: relative;
+      bottom: 38px;
+      height: 45px;
+      min-width: 500px;
+      width: 150px;
+      border: 0px;
+  }
+
+  header button.finder{
+      background-color: rgb(31, 82, 111);
+      position: relative;
+      padding: 0px 10px 0px;
+      border: 0px;
+      height: 47px;
+      bottom: 38px;
+  }
+
+  header ul.header-sign-up{
+    position: relative;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+
+  header ul img{
+    padding: 10px;
+    width: 150px;
+  }
