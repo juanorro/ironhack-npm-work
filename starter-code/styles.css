@@ -274,94 +274,31 @@ padding: 0px 0px 0px 0px;
 
     /* Below the third section */
 
-.what-make{
-  width: 700px;
-  height: 400px;
-}
-
 .first-div{
-  position: relative; 
   width: 700px;
-  height: 40px;
-  top: 50px; 
+  margin: 60px auto; 
+  text-align: center;
 }
 
 .first-div h3{
-  color: rgb(83, 88, 98);
-  position: relative;
-  width: 700px;
-  height: 40px;
-  bottom: 10px;
-  left: 50px; 
+  color: rgb(83, 88, 98); 
 }
 
 .first-div p{
   color: rgb(135, 145, 156);
-  position: relative; 
-  width: 800px;
-  height: 40px;
-  left: 32px; 
 }
 
-.second-div{
+.second-div{ 
+  margin: 0 auto;
+  width: 968px; 
+  height: 350px;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
   display: inline-block;
-  position: relative; 
-  width: 1000px;
-  height: 40px;
-  top: 100px;
-  left: 10px;
-}
-
-#first{
-  width: 300px;
-  height: 200px;
-  float: left; 
-  left: 100px;
-}
-
-#first img{
-  position: relative;
-  left: 75px; 
-}
-
-#first h4{
-  position: relative;
+  padding: 10px;
   text-align: center;
-}
-
-#second{
-  width: 300px;
-  height: 200px;
-  float: center;
-  left: 100px; 
-}
-
-#second img{
-  position: relative;
-  left: 75px; 
-}
-
-#second h4{
-  position: relative;
-  text-align: center;
-}
-
-#second a{
-  color: rgb(208, 74, 73);
-}
-
-#third{
-  width: 300px;
-  height: 200px;
-  float: right; 
-}
-
-#third img{
-  position: relative;
-  left: 75px; 
-}
-
-#third h4{
-  position: relative;
-  text-align: center;
+  vertical-align:top;
 }
