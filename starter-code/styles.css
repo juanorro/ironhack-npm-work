@@ -234,13 +234,14 @@ padding: 0px 0px 0px 0px;
     background-size: cover;
     width: 100%;
     height: 400px;
+    padding-top: 150px;
   }
 
   .what-npm h3{
     position: relative; 
-    margin: 0%;
-    top: 120px; 
-    left: 150px; 
+    margin: 0;
+    /* margin-top: 120px;  */
+    margin-left: 150px; 
     color: #fff; 
     font-size: 30px;  
   }
