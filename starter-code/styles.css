@@ -249,7 +249,7 @@ padding: 0px 0px 0px 0px;
   .what-npm p{
     position: relative; 
     width: 400px;
-    top: 120px; 
+    top: 15px; 
     left: 150px; 
     color: #fff; 
     font-size: 22px;  
@@ -257,7 +257,7 @@ padding: 0px 0px 0px 0px;
 
   .button-npm{
     position: relative; 
-    top: 120px; 
+    top: 12px; 
     left: 150px;
     height: 40px;
     width: 200px;
